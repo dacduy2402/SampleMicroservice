@@ -1,0 +1,3 @@
+com/duynd/bookservice/BookserviceApplication.class
+com/duynd/bookservice/command/command/CreateBookCommand.class
+com/duynd/bookservice/command/data/Book.class
